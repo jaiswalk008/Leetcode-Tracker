@@ -1,0 +1,17 @@
+body{
+    background-color: #182b49;
+    color: #fff;
+    min-width: 300px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+img{
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    border-color: aliceblue;
+}
